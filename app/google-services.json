@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "510687871064",
+    "firebase_url": "https://online-school-2c5d8.firebaseio.com",
+    "project_id": "online-school-2c5d8",
+    "storage_bucket": "online-school-2c5d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510687871064:android:4ebfab24d7ca9c20f44a2d",
+        "android_client_info": {
+          "package_name": "com.apurbamondal.onlineschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510687871064-tkvifi9ah0ptdqgg4vgj9f0oam24o4i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUBH-cD_2_poPYSiXxyewLCsn5_ScP5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510687871064-tkvifi9ah0ptdqgg4vgj9f0oam24o4i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
